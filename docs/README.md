@@ -1,3 +1,8 @@
+---
+title: Code Beard
+description: About Me
+---
+
 # Codebeard
 
 ## About Me
