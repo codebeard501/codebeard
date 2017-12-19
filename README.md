@@ -1,4 +1,8 @@
-# Task List
+# Repo Data
 
-- [x] Get index set up under /docs
-- [ ] Create new project folders
+## Projects
+
+Project|Status|Notes
+-------|------|-----
+Number Guess|1%|Project Folder Created
+Traveller Toolkit|0%|In Design
