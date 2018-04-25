@@ -2,14 +2,17 @@
 
 ## Branches
 Never commit to the master branch, except for this file.
+Never commit to the test branch
 Rarely commit to the dev branch
-Always merge project branches to dev branch
-Always merge dev branch to master branch
+Always commit to the project branch (csc, travtools, etc)
+
+Merge Flows: Project -> Dev -> Test -> Master
 
 * master - never commit, always merge
-  * dev - base dev branch, merge sub-branches to dev
-    * travtools - General Traveller RPG Tools
-    * csc - Central Supply Catalog: A searchable, filterable version of the data
+  * test - test branch, verify code before pushing to master
+    * dev - base dev branch, merge sub-branches to dev
+      * travtools - General Traveller RPG Tools
+      * csc - Central Supply Catalog: A searchable, filterable version of the data
 
 ## Projects
 
